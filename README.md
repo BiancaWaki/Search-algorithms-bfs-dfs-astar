@@ -4,6 +4,16 @@ Projeto para o trabalho de Inteligência Artificial:
 implementação e comparação dos algoritmos **BFS**, **DFS** e **A\*** na
 resolução de um labirinto.
 
+
+
+
+
+https://github.com/user-attachments/assets/efe558bc-e07e-4381-8ba3-7e1adee07bc7
+
+
+
+
+
 ## Como executar
 
 ```bash
